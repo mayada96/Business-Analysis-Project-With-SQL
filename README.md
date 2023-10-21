@@ -4,7 +4,7 @@ Business Analysis Project - Order Data (2020 and 2021)
 
 This project involves the analysis of two datasets, one for the year 2019 and the other for 2020. Both datasets contain essential information about orders, including order number, client ID, product code, date of delivery, and delivery amount. The goal is to extract valuable insights from the data.
 
-##Analysis Tasks
+## Analysis Tasks
 
 1. Data Cleansing
 - Cleanse and preprocess both table to ensure data accuracy and consistency.
@@ -29,7 +29,7 @@ This project involves the analysis of two datasets, one for the year 2019 and th
 - Analyze and compare income by month for both 2020 and 2021.
 - Identify any seasonality trends in the data to understand when the business experiences peak or low periods.
 
-##Data Sources
+## Data Sources
 This dataset is by Kaggle:
 https://www.kaggle.com/datasets/sticktogethertm/business-analysis-junior
 
@@ -51,16 +51,16 @@ https://www.kaggle.com/datasets/sticktogethertm/business-analysis-junior
 - `Seasonality Script.sql` - containing the SQL code for the analysis.
 - `README.md` - This document.
 
- ##Getting Started
+## Getting Started
 
 1. Clone this repository to your local machine.
 2. Open and run the SQl Server Management studio for the analysis.
 
-##Usage:
+## Usage:
 
 You can replicate the analysis by running the SQL queries against the provided dataset or your own dataset with similar columns.
 
-##Conclusion:
+## Conclusion:
 
 This project aims to provide valuable insights into the business’s performance in 2019 and 2020, highlighting new product revenue, customer segmentation, and revenue trends. The analysis results will help the business make data-driven decisions for future growth.
 
