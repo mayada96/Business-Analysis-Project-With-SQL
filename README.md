@@ -1,4 +1,4 @@
-Business Analysis Project - Order Data (2020 and 2021)
+# Business Analysis Project - Order Data (2020 and 2021)
 
 ## Overview
 
@@ -53,8 +53,8 @@ https://www.kaggle.com/datasets/sticktogethertm/business-analysis-junior
 
 ## Getting Started
 
-1. Clone this repository to your local machine.
-2. Open and run the SQl Server Management studio for the analysis.
+- Clone this repository to your local machine.
+- Open and run the SQl Server Management studio for the analysis.
 
 ## Usage:
 
@@ -66,7 +66,7 @@ This project aims to provide valuable insights into the business’s performance
 
 Feel free to reach out if you have any questions or need further details.
 
-Author: Mayada Yousuf Konna
+Author: `Mayada Yousuf`
 Mail: mayadayousuf96@gmail.com
 Date: 10/20/2023
 
